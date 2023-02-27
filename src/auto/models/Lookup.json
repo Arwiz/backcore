@@ -1,0 +1,60 @@
+{
+  "types": [
+    {
+      "key": "TEXT",
+      "keyValue": "TEXT",
+      "kayDisplayName": "TEXT"
+    },
+    {
+      "key": "INTEGER",
+      "keyValue": "INT",
+      "kayDisplayName": "Integer"
+    },
+    {
+      "key": "DATE",
+      "keyValue": "DATE",
+      "kayDisplayName": "Date"
+    },
+    {
+      "key": "DICTIONARY",
+      "keyValue": "DICT",
+      "kayDisplayName": "Dictionary"
+    },
+    {
+      "key": "KEY_VALUE",
+      "keyValue": "KEY_VALUE",
+      "kayDisplayName": "Key_Value"
+    },
+    {
+      "key": "OPTION",
+      "keyValue": "OPTION",
+      "kayDisplayName": "Option"
+    },
+    {
+      "key": "MULTI_SELECT",
+      "keyValue": "MULTI_SELECT",
+      "kayDisplayName": "MULTI_SELECT"
+    },
+    {
+      "key": "BOOLEAN",
+      "keyValue": "BOOLEAN",
+      "kayDisplayName": "Boolean"
+    },
+    {
+      "key": "COST",
+      "keyValue": "COST",
+      "kayDisplayName": "Cost (Currency)"
+    },
+    {
+      "key": "FILE",
+      "keyValue": "FILE",
+      "kayDisplayName": "File"
+    },
+    {
+      "key": "LOG",
+      "keyValue": "LOG",
+      "kayDisplayName": "Log"
+    }
+  ]
+}
+

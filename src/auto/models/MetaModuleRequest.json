@@ -1,0 +1,51 @@
+{
+  "clientId": "5e9aa066985e84044eec326e",
+  "projectId": "5e9aa066985e84044eec326f",
+  "moduleId": "abcd12333",
+  "moduleName": "IssueReport",
+  "status": "PUBLISHED",
+  "fields": [
+    {
+      "fieldName": "IssueName",
+      "fieldDisplayName": "Issue Name",
+      "fieldId": "issueName",
+      "fieldType": "TEXT",
+      "fieldOptions": []
+    },
+    {
+      "fieldName": "IssueCost",
+      "fieldDisplayName": "Issue Cost",
+      "fieldId": "issueCost",
+      "fieldType": "COST",
+      "fieldOptions": []
+    },
+    {
+      "fieldName": "IssueStatus",
+      "fieldDisplayName": "Issue Status",
+      "fieldId": "issueCost",
+      "fieldType": "SINGLE_SELECT",
+      "fieldOptions": [
+        {
+          "optionName": "RESOLVE",
+          "optionValue": "RESOLVE"
+        },
+        {
+          "optionName": "OPEN",
+          "optionValue": "OPEN"
+        },
+        {
+          "optionName": "CLOSE",
+          "optionValue": "CLOSE"
+        },
+        {
+          "optionName": "REVIEW",
+          "optionValue": "REVIEW"
+        },
+        {
+          "optionName": "NOT APPLIED",
+          "optionValue": "N/A"
+        }
+      ]
+    }
+  ]
+}
